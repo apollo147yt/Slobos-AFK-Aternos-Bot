@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "slobtest1.aternos.me",
-    "port": 27586,
+    "ip": "mckinnongroup.aternos.me",
+    "port": 33604,
     "version": "",
     "try-creative": false
   },
