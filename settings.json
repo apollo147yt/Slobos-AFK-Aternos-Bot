@@ -8,7 +8,7 @@
   "server": {
     "ip": "mckinnongroup.aternos.me",
     "port": 33604,
-    "version": "",
+    "version": "26.1.12",
     "try-creative": true
   },
   "position": {
@@ -32,7 +32,6 @@
       "repeat-delay": 120,
       "messages": [
         "I'm a regular player",
-        "Subscribe to Slobos!",
         "I like to play Minecraft!"
       ]
     },
