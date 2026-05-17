@@ -1,7 +1,7 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "KeepUp",
+    "username": "Slobot00",
     "password": "",
     "type": "offline"
   },
@@ -9,7 +9,7 @@
     "ip": "mckinnongroup.aternos.me",
     "port": 33604,
     "version": "",
-    "try-creative": true
+    "try-creative": false
   },
   "position": {
     "enabled": true,
